@@ -3,3 +3,10 @@
 
 #MacOS files
 .DS_Store
+
+# storage files
+storage/*
+!storage/.gitkeep
+
+# python cache files
+__pycache__
